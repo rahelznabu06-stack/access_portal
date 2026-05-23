@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Portal",
+  "description": "A sophisticated, high-performance authentication interface with fluid motion and polished typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
